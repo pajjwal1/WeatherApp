@@ -1,0 +1,1 @@
+I have created two short project for Api implementation one is with offline or self created api data and another one is with real time api data. In real time Api data I tried to create a weather app that shows your city current weather. If you want to include anything then please create branch and submit merge request I will review and add in my project.
